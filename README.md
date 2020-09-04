@@ -1,3 +1,15 @@
 ﻿# PHP-Security-Login-Form-System
 
 @@@@All Developed BY IT-19B Security Student@@@@ 
+
+Forgot Password: need must sure available register account before forgot password.
+Reset Password: you need go to you gmail account to click link to reset new password.
+
+Note: 
+ 1.Forgot Password 
+            $mail->Username   = ''; 
+            $mail->Password   = '';   
+
+    you need key in you gmail account email & password.
+
+ 
