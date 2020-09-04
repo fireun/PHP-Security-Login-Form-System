@@ -13,9 +13,8 @@ Our Login System include:
 
 
 Conditions:
-Forgot Password: need must sure available register account before forgot password.
-
-Reset Password: you need go to you gmail account to click link to reset new password.
+1.Forgot Password: need must sure available register account before forgot password.
+2.Reset Password: you need go to you gmail account to click link to reset new password.
 
 Note: 
  1.Forgot Password 
