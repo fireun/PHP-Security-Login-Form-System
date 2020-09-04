@@ -2,6 +2,14 @@
 
 @@@@All Developed BY IT-19B Security Student@@@@ 
 
+Our Login System include:
+1. Image Verification 
+2. Google login
+3. Recaptcha Verification
+3. Forgot Password 
+
+
+
 Forgot Password: need must sure available register account before forgot password.
 Reset Password: you need go to you gmail account to click link to reset new password.
 
